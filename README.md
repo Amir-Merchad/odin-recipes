@@ -1,1 +1,1 @@
-This is my first website. It shows all skills learned in HTML from "The Odin Project".
+This is my first website. It showcases all the HTML skills I've learned in the Odin Project.
