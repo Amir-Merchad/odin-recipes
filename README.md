@@ -1,1 +1,1 @@
-This website shows all learned skills in HTML, without previous knowledge in it. I don't know yet how to customize it with CSS ... but it will be fun!
+This is my first website. It shows all skills learned in HTML from "The Odin Project".
